@@ -1,8 +1,8 @@
 # Node.js Hello World Sample
 
-This application demonstrates a simple, reusable Node.js web application based on the Express framework.
+This application demonstrates a simple, vuejs application with browserify.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/nodejs-helloworld)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/No9/vuejs-browserify-bluemix)
 
 ## Run the app locally
 
